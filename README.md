@@ -39,7 +39,7 @@ AutoGluon with GPU:
 
 ###### Image Object Detection
 
-#### Image Segmentation,
+#### Image Segmentation
 
 
 ###### Document Classification
