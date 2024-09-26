@@ -23,11 +23,28 @@ Multi Label:
 
 AutoGluon with GPU:
 
-### Text Classification
+#### Text Classification
 
-#### Sentiment Analysis and Sentence Similarity
+###### Sentiment Analysis and Sentence Similarity
 
-#### Finetune Foundation Models
+###### Finetune Foundation Models
 
-#### Named Entity Recognition
+###### Named Entity Recognition
+
+#### text similarity matching
+
+###### Image Classifier
+
+###### Zero Shot Classification
+
+###### Image Object Detection
+
+#### Image Segmentation,
+
+
+###### Document Classification
+
+###### PDF Classification
+
+
 
