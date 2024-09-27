@@ -14,10 +14,10 @@ Make sure you checkin the full run output (aka the colab with outputs of your ru
 A low code AutoML for building machine learning solutions on raw data in a few lines of code.
 
 ### A. AutoGluon for Kaggle competitions:
-Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_For_Kaggle_Competitions.ipynb 
+          Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_For_Kaggle_Competitions.ipynb 
 
-#### California House Price:
-Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_California_House_Price%20(1).ipynb.zip 
+    #### California House Price:
+           Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_California_House_Price%20(1).ipynb.zip 
 
 Video:
 
@@ -28,14 +28,17 @@ Video:
 ### B. Tabular Classification/Regression:
 
 #### 1. Tabular Quick Start:
+
+#### 2. Tabular In Depth:
+         Colab : https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_Tabular_InDepth.ipynb
  
-#### 2. Multimodal Tabular:
+#### 3. Multimodal Tabular:
 
-#### 3. Automatic Feature Engineering:
+#### 4. Automatic Feature Engineering:
 
-#### 4. Tabular Multi Label:
+#### 5. Tabular Multi Label:
 
-#### 5.AutoGluon with GPU:
+#### 6. AutoGluon with GPU:
 
 ### C. Text Classification:
 
