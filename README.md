@@ -25,69 +25,69 @@ Video:
 
 
 
-#### B. Tabular Classification/Regression:
+### B. Tabular Classification/Regression:
 
-###### 1. Tabular Quick Start:
+#### 1. Tabular Quick Start:
  
-###### 2. Multimodal Tabular:
+#### 2. Multimodal Tabular:
 
-###### 3. Automatic Feature Engineering:
+#### 3. Automatic Feature Engineering:
 
-###### 4. Tabular Multi Label:
+#### 4. Tabular Multi Label:
 
-###### 5.AutoGluon with GPU:
+#### 5.AutoGluon with GPU:
 
-#### C. Text Classification:
+### C. Text Classification:
 
-###### 1. Sentiment Analysis and Sentence Similarity:
+#### 1. Sentiment Analysis and Sentence Similarity:
 
-###### 2. Finetune Foundation Models
+#### 2. Finetune Foundation Models
 
-###### 3. Named Entity Recognition
+#### 3. Named Entity Recognition
 
-#### D. Image Classifier
+### D. Image Classifier
 
-###### 1. Image Classification
+#### 1. Image Classification
 
-###### 2. Zero Shot Classification
+#### 2. Zero Shot Classification
 
-###### 3. Image Object Detection
+#### 3. Image Object Detection
 
-#### E. Image Segmentation
+### E. Image Segmentation
 
-###### 1. Semantic Segmentation
+#### 1. Semantic Segmentation
 
-###### 2. Document Classification
+#### 2. Document Classification
 
-###### 3. PDF Classification
+#### 3. PDF Classification
 
-#### F. Semantic Matching
+### F. Semantic Matching
 
-###### 1. Image to Image
+#### 1. Image to Image
 
-###### 2. Text to Text
+#### 2. Text to Text
 
-###### 3. Image - Text
+#### 3. Image - Text
 
-###### 4. Image - Text Zero Shot
+#### 4. Image - Text Zero Shot
 
-###### 5. Text Semantic Search
+#### 5. Text Semantic Search
 
-#### G. Multi Modal Usecases
+### G. Multi Modal Usecases
 
-###### 1. Multi Modal Mixed Type Text Columns
+#### 1. Multi Modal Mixed Type Text Columns
 
-###### 2. Images + Text in Table
+#### 2. Images + Text in Table
 
-###### 3. Entity Extraction in Multi Modal
+#### 3. Entity Extraction in Multi Modal
 
-#### H. Time Series Forecasting
+### H. Time Series Forecasting
 
-###### 1. Simple Forecasting:
+#### 1. Simple Forecasting:
 
-###### 2. Forecasting - Chronos
+#### 2. Forecasting - Chronos
 
-#### I. Multi Modal Image + Text + Tabular Prediction
+### I. Multi Modal Image + Text + Tabular Prediction
 
 
 
