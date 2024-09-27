@@ -1,4 +1,4 @@
-### **Assignment**:
+## **Assignment**:
 
 Perform example colabs for below tasks 
 a) you should be able to clone partly the colabs but you need to execute it successfully in your environment.
@@ -7,16 +7,16 @@ b) you need to do a long video tutorial - going over each of the colab and expla
 Neatly organize your github directory with proper readme file. 
 Make sure you checkin the full run output (aka the colab with outputs of your run in it)
 
-### **Solution**:
+## **Solution**:
 
-## **AutoGluon**
+# **AutoGluon**
 
 A low code AutoML for building machine learning solutions on raw data in a few lines of code.
 
-#### A. AutoGluon for Kaggle competitions:
+### A. AutoGluon for Kaggle competitions:
 Colab:
 
-###### California House Price:
+#### California House Price:
 Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_California_House_Price%20(1).ipynb.zip
 
 Video:
