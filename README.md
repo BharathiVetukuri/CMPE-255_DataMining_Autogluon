@@ -15,7 +15,15 @@ A low code AutoML for building machine learning solutions on raw data in a few l
 
 #### A. AutoGluon for Kaggle competitions:
 Colab:
-Youtube:
+
+###### California House Price:
+Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_California_House_Price%20(1).ipynb.zip
+
+Video:
+
+
+
+
 
 #### B. Tabular Classification/Regression:
 
