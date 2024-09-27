@@ -14,10 +14,11 @@ Make sure you checkin the full run output (aka the colab with outputs of your ru
 A low code AutoML for building machine learning solutions on raw data in a few lines of code.
 
 ### A. AutoGluon for Kaggle competitions:
-          Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_For_Kaggle_Competitions.ipynb 
+
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_For_Kaggle_Competitions.ipynb 
 
 #### California House Price:
-           Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_California_House_Price%20(1).ipynb.zip 
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_California_House_Price%20(1).ipynb.zip 
 
 Video:
 
