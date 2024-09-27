@@ -13,40 +13,73 @@ Make sure you checkin the full run output (aka the colab with outputs of your ru
 
 A low code AutoML for building machine learning solutions on raw data in a few lines of code.
 
-AutoGluon for Kaggle competitions:
+#### A. AutoGluon for Kaggle competitions:
+Colab:
+Youtube:
 
-Tabular Classification/Regression:
+#### B. Tabular Classification/Regression:
 
-Multimodal Tabular:
+###### 1. Tabular Quick Start:
+ 
+###### 2. Multimodal Tabular:
 
-Automatic Feature Engineering:
+###### 3. Automatic Feature Engineering:
 
-Multi Label:
+###### 4. Tabular Multi Label:
 
-AutoGluon with GPU:
+###### 5.AutoGluon with GPU:
 
-#### Text Classification
+#### C. Text Classification:
 
-###### Sentiment Analysis and Sentence Similarity
+###### 1. Sentiment Analysis and Sentence Similarity:
 
-###### Finetune Foundation Models
+###### 2. Finetune Foundation Models
 
-###### Named Entity Recognition
+###### 3. Named Entity Recognition
 
-#### text similarity matching
+#### D. Image Classifier
 
-###### Image Classifier
+###### 1. Image Classification
 
-###### Zero Shot Classification
+###### 2. Zero Shot Classification
 
-###### Image Object Detection
+###### 3. Image Object Detection
 
-#### Image Segmentation
+#### E. Image Segmentation
 
+###### 1. Semantic Segmentation
 
-###### Document Classification
+###### 2. Document Classification
 
-###### PDF Classification
+###### 3. PDF Classification
+
+#### F. Semantic Matching
+
+###### 1. Image to Image
+
+###### 2. Text to Text
+
+###### 3. Image - Text
+
+###### 4. Image - Text Zero Shot
+
+###### 5. Text Semantic Search
+
+#### G. Multi Modal Usecases
+
+###### 1. Multi Modal Mixed Type Text Columns
+
+###### 2. Images + Text in Table
+
+###### 3. Entity Extraction in Multi Modal
+
+#### H. Time Series Forecasting
+
+###### 1. Simple Forecasting:
+
+###### 2. Forecasting - Chronos
+
+#### I. Multi Modal Image + Text + Tabular Prediction
 
 
 
