@@ -21,7 +21,7 @@ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/ma
 
 Video:
 
-
+[![AutoGluon for Kaggle Competitions](https://img.youtube.com/vi/W8Ang_IyrDs/0.jpg)](https://www.youtube.com/watch?v=W8Ang_IyrDs)
 
 
 
