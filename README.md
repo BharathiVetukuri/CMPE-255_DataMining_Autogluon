@@ -29,33 +29,43 @@ Video:
 ### B. Tabular Classification/Regression:
 
 #### 1. Tabular Quick Start:
-
+https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_Tabular_Quick_Start.ipynb
 #### 2. Tabular In Depth:
          Colab : https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_Tabular_InDepth.ipynb
  
 #### 3. Multimodal Tabular:
+https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Tabular_Multimodal.ipynb
 
 #### 4. Automatic Feature Engineering:
+https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Tabular_Feature_Engineering.ipynb
 
 #### 5. Tabular Multi Label:
+https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Tabular_Multilabel.ipynb
 
 #### 6. AutoGluon with GPU:
+https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Tabular_GPU.ipynb
 
 ### C. Text Classification:
 
 #### 1. Sentiment Analysis and Sentence Similarity:
+https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/SentimentAnalysisSentenceSimilarity.ipynb
 
-#### 2. Finetune Foundation Models
+#### 2. Finetune Foundation Models:
+https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/FineTune_Foundation_Models.ipynb
 
-#### 3. Named Entity Recognition
+#### 3. Named Entity Recognition:
+https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/NamedEntityRecognition.ipynb
 
 ### D. Image Classifier
 
-#### 1. Image Classification
+#### 1. Image Classification:
+https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Image_Classifier.ipynb
 
-#### 2. Zero Shot Classification
+#### 2. Zero Shot Classification:
+https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/ZeroShotClassification.ipynb
 
-#### 3. Image Object Detection
+#### 3. Image Object Detection:
+https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Image_Object_Detection.ipynb
 
 ### E. Image Segmentation
 
