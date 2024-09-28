@@ -13,11 +13,12 @@ Make sure you checkin the full run output (aka the colab with outputs of your ru
 
 A low code AutoML for building machine learning solutions on raw data in a few lines of code.
 
-### A. AutoGluon for Kaggle competitions:
+### A. AutoGluon for Kaggle competitions
 
  Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_For_Kaggle_Competitions.ipynb 
 
 #### California House Price:
+ 
  Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_California_House_Price%20(1).ipynb.zip 
 
 Video:
@@ -25,83 +26,123 @@ Video:
 [![AutoGluon for Kaggle Competitions](https://img.youtube.com/vi/W8Ang_IyrDs/0.jpg)](https://www.youtube.com/watch?v=W8Ang_IyrDs)
 
 
-
-### B. Tabular Classification/Regression:
+### B. Tabular Classification/Regression
 
 #### 1. Tabular Quick Start:
-https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_Tabular_Quick_Start.ipynb
+
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_Tabular_Quick_Start.ipynb
+ 
 #### 2. Tabular In Depth:
-         Colab : https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_Tabular_InDepth.ipynb
+
+ Colab : https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_Tabular_InDepth.ipynb 
  
 #### 3. Multimodal Tabular:
-https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Tabular_Multimodal.ipynb
+
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Tabular_Multimodal.ipynb
 
 #### 4. Automatic Feature Engineering:
-https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Tabular_Feature_Engineering.ipynb
+
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Tabular_Feature_Engineering.ipynb 
 
 #### 5. Tabular Multi Label:
-https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Tabular_Multilabel.ipynb
+
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Tabular_Multilabel.ipynb 
 
 #### 6. AutoGluon with GPU:
-https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Tabular_GPU.ipynb
+
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Tabular_GPU.ipynb 
 
 ### C. Text Classification:
 
 #### 1. Sentiment Analysis and Sentence Similarity:
-https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/SentimentAnalysisSentenceSimilarity.ipynb
+
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/SentimentAnalysisSentenceSimilarity.ipynb 
 
 #### 2. Finetune Foundation Models:
-https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/FineTune_Foundation_Models.ipynb
+
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/FineTune_Foundation_Models.ipynb 
 
 #### 3. Named Entity Recognition:
-https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/NamedEntityRecognition.ipynb
+
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/NamedEntityRecognition.ipynb 
 
 ### D. Image Classifier
 
 #### 1. Image Classification:
-https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Image_Classifier.ipynb
+
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Image_Classifier.ipynb 
 
 #### 2. Zero Shot Classification:
-https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/ZeroShotClassification.ipynb
+
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/ZeroShotClassification.ipynb 
 
 #### 3. Image Object Detection:
-https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Image_Object_Detection.ipynb
+
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Image_Object_Detection.ipynb 
 
 ### E. Image Segmentation
 
-#### 1. Semantic Segmentation
+#### 1. Semantic Segmentation:
 
-#### 2. Document Classification
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Semantic_Segmentation.ipynb 
 
-#### 3. PDF Classification
+#### 2. Document Classification:
+
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/DocumentClassification.ipynb 
+
+#### 3. PDF Classification:
+
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/PDF_Classification.ipynb 
 
 ### F. Semantic Matching
 
-#### 1. Image to Image
+#### 1. Image to Image:
 
-#### 2. Text to Text
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Image_to_Image_Matching.ipynb 
 
-#### 3. Image - Text
+#### 2. Text to Text:
 
-#### 4. Image - Text Zero Shot
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/text2text_matching.ipynb 
 
-#### 5. Text Semantic Search
+#### 3. Image - Text:
+
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Image_Text_Matching.ipynb 
+
+#### 4. Image - Text Zero Shot:
+
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/ZeroShotImageTextMatch.ipynb
+
+#### 5. Text Semantic Search:
+
+ Colab:
 
 ### G. Multi Modal Usecases
 
-#### 1. Multi Modal Mixed Type Text Columns
+#### 1. Multi Modal Mixed Type Text Columns:
 
-#### 2. Images + Text in Table
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/MultimodalMixed.ipynb 
 
-#### 3. Entity Extraction in Multi Modal
+#### 2. Images + Text in Table:
+
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Images_TextinTable.ipynb 
+
+#### 3. Entity Extraction in Multi Modal:
+
+ Colab:
 
 ### H. Time Series Forecasting
 
 #### 1. Simple Forecasting:
 
-#### 2. Forecasting - Chronos
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/TimeSeries_ForecastingInDepth.ipynb 
+
+#### 2. Forecasting - Chronos:
+
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Forecasting_Chronos.ipynb 
 
 ### I. Multi Modal Image + Text + Tabular Prediction
+
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Image_Text_Tabular_Prediction.ipynb 
 
 
 
