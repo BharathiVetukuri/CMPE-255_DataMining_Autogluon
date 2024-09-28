@@ -48,6 +48,10 @@ Video:
 
  Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Tabular_Multilabel.ipynb 
 
+ Video for Tabular In Depth, MultiModal Tabular, Automatic Feature Engineering and Tabular Multilabel:
+
+ [![AutoGluon for Kaggle Competitions](https://img.youtube.com/vi/MGOn1x_oBgE/0.jpg)](https://www.youtube.com/watch?v=MGOn1x_oBgE)
+
 #### 6. AutoGluon with GPU:
 
  Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Tabular_GPU.ipynb 
