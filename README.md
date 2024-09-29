@@ -77,6 +77,10 @@ Video:
 #### 2. Finetune Foundation Models:
 
  Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/FineTune_Foundation_Models.ipynb 
+ 
+ Video:
+
+ [![Build Multi Lingual Models, Perform Image Classification and Image Object Detection Using AutoGluon](https://img.youtube.com/vi/JGZJKv6ir08/0.jpg)](https://www.youtube.com/watch?v=JGZJKv6ir08)
 
 #### 3. Named Entity Recognition:
 
@@ -87,6 +91,11 @@ Video:
 #### 1. Image Classification:
 
  Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Image_Classifier.ipynb 
+
+ 
+ Video for Image Classification and Image Object Detection:
+
+ [![Build Multi Lingual Models, Perform Image Classification and Image Object Detection Using AutoGluon](https://img.youtube.com/vi/JGZJKv6ir08/0.jpg)](https://www.youtube.com/watch?v=JGZJKv6ir08)
 
 #### 2. Zero Shot Classification:
 
