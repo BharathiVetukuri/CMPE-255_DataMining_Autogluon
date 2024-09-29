@@ -97,6 +97,10 @@ Video:
 #### 1. Semantic Segmentation:
 
  Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Semantic_Segmentation.ipynb 
+ 
+ Video:
+
+ [![AutoGluon for Semantic Segmentation](https://img.youtube.com/vi/qpi5fQBBVpo/0.jpg)](https://www.youtube.com/watch?v=qpi5fQBBVpo)
 
 #### 2. Document Classification:
 
