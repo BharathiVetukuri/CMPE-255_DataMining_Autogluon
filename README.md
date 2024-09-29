@@ -70,6 +70,10 @@ Video:
 
  Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/SentimentAnalysisSentenceSimilarity.ipynb 
 
+  Video for Sentiment Analysis and Sentence Similarity, Named Entity Recognition:
+
+ [![Text Classification and Zero Shot Image Classification Using AutoGluon](https://img.youtube.com/vi/BQvDeUTEZs0/0.jpg)](https://www.youtube.com/watch?v=BQvDeUTEZs0)
+
 #### 2. Finetune Foundation Models:
 
  Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/FineTune_Foundation_Models.ipynb 
@@ -87,6 +91,10 @@ Video:
 #### 2. Zero Shot Classification:
 
  Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/ZeroShotClassification.ipynb 
+ 
+  Video:
+
+ [![Text Classification and Zero Shot Image Classification Using AutoGluon](https://img.youtube.com/vi/BQvDeUTEZs0/0.jpg)](https://www.youtube.com/watch?v=BQvDeUTEZs0)
 
 #### 3. Image Object Detection:
 
