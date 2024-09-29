@@ -109,6 +109,10 @@ Video:
 #### 3. PDF Classification:
 
  Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/PDF_Classification.ipynb 
+  
+  Video for Document Classification and PDF Classification:
+
+ [![Perform Document Classification, PDF Classification and MultiModal Use Cases with AutoGluon](https://img.youtube.com/vi/wOd3_MF3Gco/0.jpg)](https://www.youtube.com/watch?v=wOd3_MF3Gco)
 
 ### F. Semantic Matching
 
@@ -145,6 +149,10 @@ Video:
 #### 2. Images + Text in Table:
 
  Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Images_TextinTable.ipynb 
+
+   Video for Multi Modal Mixed Type Text Columns and Images + Text in Table:
+
+ [![Perform Document Classification, PDF Classification and MultiModal Use Cases with AutoGluon](https://img.youtube.com/vi/wOd3_MF3Gco/0.jpg)](https://www.youtube.com/watch?v=wOd3_MF3Gco)
 
 #### 3. Entity Extraction in Multi Modal:
 
