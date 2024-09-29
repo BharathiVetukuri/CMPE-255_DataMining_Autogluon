@@ -34,7 +34,7 @@ Video:
  
  Video:
 
- [![AutoGluon for Kaggle Competitions](https://img.youtube.com/vi/-GZH_m_K8lw/0.jpg)](https://www.youtube.com/watch?v=-GZH_m_K8lw)
+ [![AutoGluon for Tabular Classification and AutoGluon with GPU Demo](https://img.youtube.com/vi/-GZH_m_K8lw/0.jpg)](https://www.youtube.com/watch?v=-GZH_m_K8lw)
  
 #### 2. Tabular In Depth:
 
@@ -54,7 +54,7 @@ Video:
 
  Video for Tabular In Depth, MultiModal Tabular, Automatic Feature Engineering and Tabular Multilabel:
 
- [![AutoGluon for Kaggle Competitions](https://img.youtube.com/vi/MGOn1x_oBgE/0.jpg)](https://www.youtube.com/watch?v=MGOn1x_oBgE)
+ [![How to Use AutoGluon for Tabular Classification/Regression](https://img.youtube.com/vi/MGOn1x_oBgE/0.jpg)](https://www.youtube.com/watch?v=MGOn1x_oBgE)
 
 #### 6. AutoGluon with GPU:
 
@@ -62,7 +62,7 @@ Video:
 
  Video:
 
- [![AutoGluon for Kaggle Competitions](https://img.youtube.com/vi/-GZH_m_K8lw/0.jpg)](https://www.youtube.com/watch?v=-GZH_m_K8lw)
+ [![AutoGluon for Tabular Classification and AutoGluon with GPU Demo](https://img.youtube.com/vi/-GZH_m_K8lw/0.jpg)](https://www.youtube.com/watch?v=-GZH_m_K8lw)
 
 ### C. Text Classification:
 
@@ -123,6 +123,10 @@ Video:
 #### 4. Image - Text Zero Shot:
 
  Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/ZeroShotImageTextMatch.ipynb
+ 
+ Video for Image to Image, Text to Text, Image Text and Image Text Zero Shot Semantic Matching:
+
+ [![Semantic Matching Using AutoGluon - Low Code Auto ML](https://img.youtube.com/vi/toEHZsqQPFg/0.jpg)](https://www.youtube.com/watch?v=toEHZsqQPFg)
 
 #### 5. Text Semantic Search:
 
