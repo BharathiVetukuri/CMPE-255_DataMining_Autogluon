@@ -132,7 +132,7 @@ Video:
 
 #### 3. Entity Extraction in Multi Modal:
 
- Colab:
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Entity_Extraction_In_MultiModal_G3.ipynb 
 
 ### H. Time Series Forecasting
 
