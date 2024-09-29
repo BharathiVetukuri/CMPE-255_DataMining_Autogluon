@@ -30,7 +30,11 @@ Video:
 
 #### 1. Tabular Quick Start:
 
- Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_Tabular_Quick_Start.ipynb
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/AutoGluon_Tabular_Quick_Start.ipynb 
+ 
+ Video:
+
+ [![AutoGluon for Kaggle Competitions](https://img.youtube.com/vi/-GZH_m_K8lw/0.jpg)](https://www.youtube.com/watch?v=-GZH_m_K8lw)
  
 #### 2. Tabular In Depth:
 
@@ -55,6 +59,10 @@ Video:
 #### 6. AutoGluon with GPU:
 
  Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Tabular_GPU.ipynb 
+
+ Video:
+
+ [![AutoGluon for Kaggle Competitions](https://img.youtube.com/vi/-GZH_m_K8lw/0.jpg)](https://www.youtube.com/watch?v=-GZH_m_K8lw)
 
 ### C. Text Classification:
 
