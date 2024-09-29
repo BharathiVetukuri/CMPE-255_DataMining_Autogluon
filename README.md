@@ -185,9 +185,13 @@ Video:
 
  Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Forecasting_Chronos.ipynb 
 
-### I. Multi Modal Image + Text + Tabular Prediction
+### I. Multi Modal Image + Text + Tabular Prediction:
 
  Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Image_Text_Tabular_Prediction.ipynb 
+ 
+ Video for Time Series Forecasting and Multi Modal Image + Text + Tabular Prediction:
+
+ [![Time Series Forecasting and Multi Modal (Image, Text, Tabular) Prediction Using AutoGluon](https://img.youtube.com/vi/m9snFaKHlwo/0.jpg)](https://www.youtube.com/watch?v=m9snFaKHlwo)
 
 
 
