@@ -157,6 +157,10 @@ Video:
 
  Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Text_Semantic_Search_F5.ipynb 
 
+ Video:
+
+ [![AutoGluon for Text Semantic Search and Entity Extraction In MultiModal](https://img.youtube.com/vi/EbUwZTd03OQ/0.jpg)](https://www.youtube.com/watch?v=EbUwZTd03OQ)
+
 ### G. Multi Modal Usecases
 
 #### 1. Multi Modal Mixed Type Text Columns:
@@ -174,6 +178,10 @@ Video:
 #### 3. Entity Extraction in Multi Modal:
 
  Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Entity_Extraction_In_MultiModal_G3.ipynb 
+ 
+ Video:
+
+ [![AutoGluon for Text Semantic Search and Entity Extraction In MultiModal](https://img.youtube.com/vi/EbUwZTd03OQ/0.jpg)](https://www.youtube.com/watch?v=EbUwZTd03OQ)
 
 ### H. Time Series Forecasting
 
