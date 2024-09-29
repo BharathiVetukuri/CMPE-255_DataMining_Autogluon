@@ -118,7 +118,7 @@ Video:
 
 #### 5. Text Semantic Search:
 
- Colab:
+ Colab: https://github.com/BharathiVetukuri/CMPE-255_DataMining_Autogluon/blob/main/Text_Semantic_Search_F5.ipynb 
 
 ### G. Multi Modal Usecases
 
